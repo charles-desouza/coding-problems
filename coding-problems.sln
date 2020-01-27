@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grading Students", "Grading
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringReverse", "StringReverse\StringReverse.csproj", "{54973F4D-5DCC-49C9-9ED0-D9186BBEBC40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveLastCharacterInTextEditor", "RemoveLastCharacterInTextEditor\RemoveLastCharacterInTextEditor.csproj", "{2710F0D9-E208-4F6B-9575-288C5A0D283A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveLastCharacterInTextEditor", "RemoveLastCharacterInTextEditor\RemoveLastCharacterInTextEditor.csproj", "{2710F0D9-E208-4F6B-9575-288C5A0D283A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Csharp", "Csharp", "{FE7EEF4E-4DC7-492F-B7DA-3F01D15F8EBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpeInterview", "CSharpeInterview\CSharpeInterview.csproj", "{5D7BD47E-A1B1-46EB-A06A-5D14976BC3FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,9 +67,16 @@ Global
 		{2710F0D9-E208-4F6B-9575-288C5A0D283A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2710F0D9-E208-4F6B-9575-288C5A0D283A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2710F0D9-E208-4F6B-9575-288C5A0D283A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7BD47E-A1B1-46EB-A06A-5D14976BC3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7BD47E-A1B1-46EB-A06A-5D14976BC3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7BD47E-A1B1-46EB-A06A-5D14976BC3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7BD47E-A1B1-46EB-A06A-5D14976BC3FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5D7BD47E-A1B1-46EB-A06A-5D14976BC3FE} = {FE7EEF4E-4DC7-492F-B7DA-3F01D15F8EBC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC90BC1C-7313-40BF-A72A-DC8A4CA5FB33}
