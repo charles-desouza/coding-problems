@@ -26,9 +26,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpeInterview", "CSharpeInterview\CSharpeInterview.csproj", "{5D7BD47E-A1B1-46EB-A06A-5D14976BC3FE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MaximumProfit", "MaximumProfit", "{D99AAAEC-F9C7-4C73-9AC4-AD85066C63B3}"
-	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProfit.Tests", "MaxProfit.Tests\MaxProfit.Tests.csproj", "{32DD0F89-A8C1-4F8F-B43B-1153A6CECB5F}"
 EndProject
