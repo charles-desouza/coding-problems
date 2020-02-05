@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpeInterview", "CSharpe
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MaximumProfit", "MaximumProfit", "{D99AAAEC-F9C7-4C73-9AC4-AD85066C63B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProfit.Tests", "MaxProfit.Tests\MaxProfit.Tests.csproj", "{32DD0F89-A8C1-4F8F-B43B-1153A6CECB5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxProfit.Tests", "MaxProfit.Tests\MaxProfit.Tests.csproj", "{32DD0F89-A8C1-4F8F-B43B-1153A6CECB5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo_Jumps", "Kangaroo_Jumps\Kangaroo_Jumps.csproj", "{B0E5CCDF-40E4-4DE6-9F1D-DD0A3F6985D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -79,6 +81,10 @@ Global
 		{32DD0F89-A8C1-4F8F-B43B-1153A6CECB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32DD0F89-A8C1-4F8F-B43B-1153A6CECB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32DD0F89-A8C1-4F8F-B43B-1153A6CECB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E5CCDF-40E4-4DE6-9F1D-DD0A3F6985D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E5CCDF-40E4-4DE6-9F1D-DD0A3F6985D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E5CCDF-40E4-4DE6-9F1D-DD0A3F6985D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E5CCDF-40E4-4DE6-9F1D-DD0A3F6985D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
