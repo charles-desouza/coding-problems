@@ -6,8 +6,8 @@ namespace Kangaroo_Jumps
   public class KangarooJumpTest
   {
     [Theory]
-    //[InlineData(0,3,4,2,"YES")]
-    //[InlineData(0, 2, 5, 3, "NO")]
+    [InlineData(0, 3, 4, 2, "YES")]
+    [InlineData(0, 2, 5, 3, "NO")]
     [InlineData(43, 2, 70, 2, "NO")]
     public void Jumps_Are_In_Sync(int x1,int v1,int x2,int v2,string result)
     {
