@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.852
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "scribble", "scribble\scribble.csproj", "{7DF99A08-970F-4C18-B7CC-BDC7CEBE93E6}"
 EndProject
@@ -29,7 +29,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MaximumProfit", "MaximumPro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxProfit.Tests", "MaxProfit.Tests\MaxProfit.Tests.csproj", "{32DD0F89-A8C1-4F8F-B43B-1153A6CECB5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo_Jumps", "Kangaroo_Jumps\Kangaroo_Jumps.csproj", "{B0E5CCDF-40E4-4DE6-9F1D-DD0A3F6985D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kangaroo_Jumps", "Kangaroo_Jumps\Kangaroo_Jumps.csproj", "{B0E5CCDF-40E4-4DE6-9F1D-DD0A3F6985D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{12B2C6CD-E504-4E46-AD3A-B3C163533B46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -85,6 +87,10 @@ Global
 		{B0E5CCDF-40E4-4DE6-9F1D-DD0A3F6985D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0E5CCDF-40E4-4DE6-9F1D-DD0A3F6985D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0E5CCDF-40E4-4DE6-9F1D-DD0A3F6985D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B2C6CD-E504-4E46-AD3A-B3C163533B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B2C6CD-E504-4E46-AD3A-B3C163533B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B2C6CD-E504-4E46-AD3A-B3C163533B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B2C6CD-E504-4E46-AD3A-B3C163533B46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
