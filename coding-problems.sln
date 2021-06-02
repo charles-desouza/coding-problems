@@ -31,11 +31,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxProfit.Tests", "MaxProfi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kangaroo_Jumps", "Kangaroo_Jumps\Kangaroo_Jumps.csproj", "{B0E5CCDF-40E4-4DE6-9F1D-DD0A3F6985D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{12B2C6CD-E504-4E46-AD3A-B3C163533B46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{12B2C6CD-E504-4E46-AD3A-B3C163533B46}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "combinatorics", "combinatorics", "{30C8968C-6CF7-46B8-B85B-490DF4C98221}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{45EA8D20-9449-431E-888B-E266444D89AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{45EA8D20-9449-431E-888B-E266444D89AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmallestPositiveMissingNumber", "SmallestPositiveMissingNumber\SmallestPositiveMissingNumber.csproj", "{DA663450-9DB3-42C9-8DA7-2E6D1B946F19}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelpJarvis", "HelpJarvis\HelpJarvis.csproj", "{F79D93A1-4E10-43B5-9FBC-35CFF4FAC626}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{2B9874C0-927F-40DD-AD86-FA73C8C63A82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +105,18 @@ Global
 		{45EA8D20-9449-431E-888B-E266444D89AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45EA8D20-9449-431E-888B-E266444D89AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45EA8D20-9449-431E-888B-E266444D89AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA663450-9DB3-42C9-8DA7-2E6D1B946F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA663450-9DB3-42C9-8DA7-2E6D1B946F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA663450-9DB3-42C9-8DA7-2E6D1B946F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA663450-9DB3-42C9-8DA7-2E6D1B946F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79D93A1-4E10-43B5-9FBC-35CFF4FAC626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79D93A1-4E10-43B5-9FBC-35CFF4FAC626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79D93A1-4E10-43B5-9FBC-35CFF4FAC626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79D93A1-4E10-43B5-9FBC-35CFF4FAC626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B9874C0-927F-40DD-AD86-FA73C8C63A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9874C0-927F-40DD-AD86-FA73C8C63A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9874C0-927F-40DD-AD86-FA73C8C63A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9874C0-927F-40DD-AD86-FA73C8C63A82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
