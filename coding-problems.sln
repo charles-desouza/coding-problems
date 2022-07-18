@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelpJarvis", "HelpJarvis\He
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{2B9874C0-927F-40DD-AD86-FA73C8C63A82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChange", "CoinChange\CoinChange.csproj", "{3325D101-2B16-40EA-B4BE-2CEC6DBC9419}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{2B9874C0-927F-40DD-AD86-FA73C8C63A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B9874C0-927F-40DD-AD86-FA73C8C63A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B9874C0-927F-40DD-AD86-FA73C8C63A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3325D101-2B16-40EA-B4BE-2CEC6DBC9419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3325D101-2B16-40EA-B4BE-2CEC6DBC9419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3325D101-2B16-40EA-B4BE-2CEC6DBC9419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3325D101-2B16-40EA-B4BE-2CEC6DBC9419}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
